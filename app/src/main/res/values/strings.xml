@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">摄像头预览</string>
+    <string name="Brightness">亮度</string>
+    <string name="Contrast">对比度</string>
+</resources>
